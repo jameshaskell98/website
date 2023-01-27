@@ -1,0 +1,12 @@
+-create pages for prices, bookings, contact and about
+
+prices should have treatment option, description then price
+bookings should have calendar of availability and an input form that will eventually be sent by text or email.
+contact will have details of person.
+about may become the home page. this will have marketing nonsense.
+
+-create header logo using Dalle-2.
+
+-look into dns pricing.
+
+
